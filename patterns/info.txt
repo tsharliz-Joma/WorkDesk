@@ -1,0 +1,4 @@
+// This folder holds all the patterns that will represent markers 
+// You will need to convert the images you wish to use into these .patt files
+// Make sure the images are simple 
+// images with too much detail will not register as a marker
